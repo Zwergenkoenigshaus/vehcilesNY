@@ -1,6 +1,8 @@
 [
     {
         "id": 0,
+        "name": "Type 1",
+        "short_name": "Type 1 fire",
         "caption": "Type 1 fire engine",
         "coins": 25,
         "credits": 5000,
